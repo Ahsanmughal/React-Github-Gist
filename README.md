@@ -48,7 +48,7 @@ $ yarn build
 ```
 
 ## Possible Improvements
-* Pagination for large result set.[https://github.com/seatgeek/react-infinite](react-infinite) or [https://github.com/bvaughn/react-virtualized](react-virtualized).
+* Pagination for large result set.(react-infinite) or (react-virtualized).
 * Better Styling may be.
 
 
