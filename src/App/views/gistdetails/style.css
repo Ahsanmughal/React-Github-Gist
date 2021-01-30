@@ -1,0 +1,8 @@
+.details-box {
+    margin-top: 50px;
+    border: 1px solid #dddddd;
+    padding: 20px;
+}
+.forks-box, .files-box {
+    margin-top: 10px;
+}

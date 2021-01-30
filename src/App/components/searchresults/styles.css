@@ -1,0 +1,11 @@
+.results-box {
+    margin-top: 0px;
+}
+.status-box {
+    margin: 20px 0;
+    border: 1px solid #9a9a9a;
+    padding: 10px;
+}
+.status-box p {
+	margin-bottom: 0px;
+}
